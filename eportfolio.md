@@ -5,14 +5,10 @@ Name: Jannis Huebl
 
 
 
-Das Thema soll Anfang nächstes Semester vorgetragen werden:
+Das Thema soll Mitte Mai vorgetragen werden:
 
-- Openshift (PaaS)
-
-Das Thema soll Mitte bis Ende nächstes Semester vorgetragen werden:
-
-- Android/IOS development
-- J2OJC: Compile your android buissnes logic to Ios  
+- Erlang
+- ORMLite
 
 Wissen über folgende Themen vefüge Ich:
 
@@ -21,8 +17,9 @@ Wissen über folgende Themen vefüge Ich:
 - Hibernate
 - AOP (Aspect Programmirung)
 - Dart (JS-Ersatz von Google)
-- Android
-- IOS
+- Android/IOS development
+- J2OJC: Compile your android buissnes logic to Ios
+- Openshift
 
 
 Gelesene Bücher:
