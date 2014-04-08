@@ -16,16 +16,24 @@ Das Thema soll Mitte bis Ende nächstes Semester vorgetragen werden:
 
 Wissen über folgende Themen vefüge Ich:
 
--Spring/Rest easy
+- Spring
+- ORMLite
 - Hibernate
 - AOP (Aspect Programmirung)
 - Dart (JS-Ersatz von Google)
+- Android
+- IOS
+
 
 Gelesene Bücher:
 
 - Software-Architektur Kompakt
 - Knigge für Softwarearchitekten
-- Colol/2 Workbench
+- Cobol/2 Workbench
+
+Werden gelesen:
+
+- Learn You Some Erlang for Great Good!
 
 
 Onlinekurse habe ich erfolgreich abgeschlossen:
