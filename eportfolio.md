@@ -30,7 +30,7 @@ Gelesene Bücher:
 
 Onlinekurse habe ich erfolgreich abgeschlossen:
 
-Cryptography I: [Zertifikat](crypto_cert.pdf)
+Cryptography I: [Zertifikat](crypto_cert)
 
 
 Link zum Stackoverflow E-Portfolio:
