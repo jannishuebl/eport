@@ -9,7 +9,7 @@ Das Thema soll Anfang nächstes Semester vorgetragen werden:
 
 - Openshift (PaaS)
 
-Das Thema soll Mitte bis Ende nächstes Semmester vorgetragen werden:
+Das Thema soll Mitte bis Ende nächstes Semester vorgetragen werden:
 
 - Android/IOS development
 - J2OJC: Compile your android buissnes logic to Ios  
