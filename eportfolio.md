@@ -2,7 +2,7 @@
 
 Name: Jannis Huebl
 
-Wissen über folgende Themen vefüge Ich:
+
 
 
 Das Thema soll Anfang nächstes Semester vorgetragen werden:
@@ -14,7 +14,7 @@ Das Thema soll Mitte bis Ende nächstes Semester vorgetragen werden:
 - Android/IOS development
 - J2OJC: Compile your android buissnes logic to Ios  
 
-
+Wissen über folgende Themen vefüge Ich:
 
 -Spring/Rest easy
 - Hibernate
@@ -26,6 +26,11 @@ Gelesene Bücher:
 - Software-Architektur Kompakt
 - Knigge für Softwarearchitekten
 - Colol/2 Workbench
+
+
+Onlinekurse habe ich erfolgreich abgeschlossen:
+
+Cryptography I: [Zertifikat](http://www.github.com/jannishuebl/eport/)
 
 
 Link zum Stackoverflow E-Portfolio:
