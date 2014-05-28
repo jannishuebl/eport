@@ -5,10 +5,7 @@ Name: Jannis Huebl
 
 
 
-Das Thema soll Mitte Mai vorgetragen werden:
-
-- Erlang
-- ORMLite
+Vortrag über Erlang gehalten am 13.5.14
 
 Wissen über folgende Themen vefüge Ich:
 
@@ -27,10 +24,10 @@ Gelesene Bücher:
 - Software-Architektur Kompakt
 - Knigge für Softwarearchitekten
 - Cobol/2 Workbench
-
-Werden gelesen:
-
 - Learn You Some Erlang for Great Good!
+- Refactor by Martin Fowler
+- Patterns (GoF)
+
 
 
 Onlinekurse habe ich erfolgreich abgeschlossen:
