@@ -36,7 +36,10 @@ Cryptography I: [Zertifikat](crypto_cert)
 
 
 Link zum Stackoverflow E-Portfolio:
+[zum Stackoveflow Profil](http://careers.stackoverflow.com/cv/edit/203394#)   
+
+
+
 [Github Resume] (http://resume.github.io/?jannishuebl)
-[zum Stackoveflow Profil](http://careers.stackoverflow.com/cv/edit/203394#) 
 
 
