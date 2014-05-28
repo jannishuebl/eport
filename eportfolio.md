@@ -28,7 +28,9 @@ Gelesene Bücher:
 - Refactor by Martin Fowler
 - Patterns (GoF)
 
+Bücher lese ich:
 
+- Learn Ruby the Hardway
 
 Onlinekurse habe ich erfolgreich abgeschlossen:
 
