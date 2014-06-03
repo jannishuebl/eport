@@ -36,6 +36,11 @@ Onlinekurse habe ich erfolgreich abgeschlossen:
 
 Cryptography I: [Zertifikat](crypto_cert)
 
+Onlinekurse die ich durchführe bzw die bald starten:  
+
+Cryptography II  
+Mathematical Philosophy
+
 
 Link zum Stackoverflow E-Portfolio:
 [zum Stackoveflow Profil](http://careers.stackoverflow.com/cv/edit/203394#)   
