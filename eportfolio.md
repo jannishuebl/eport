@@ -43,6 +43,7 @@ Link zum Stackoverflow E-Portfolio:
 Link zum Stackoverflow Profil (61 reputation):
 [zum Stackoveflow Profil](http://stackoverflow.com/users/2520673/user2520673)
 
-[Github Resume] (http://resume.github.io/?jannishuebl)
+[Github Resume] (http://resume.github.io/?jannishuebl)  
+
 [Github Pullrequests] (https://github.com/jbox-web/gitolite/pull/1)
 
