@@ -34,12 +34,12 @@ Bücher lese ich:
 
 Onlinekurse habe ich erfolgreich abgeschlossen:
 
-Cryptography I: [Zertifikat](crypto_cert)
+- Cryptography I: [Zertifikat](crypto_cert)
 
 Onlinekurse die ich durchführe bzw die bald starten:  
 
-Cryptography II  
-Mathematical Philosophy
+- Cryptography II  
+- Mathematical Philosophy
 
 
 Link zum Stackoverflow E-Portfolio:
